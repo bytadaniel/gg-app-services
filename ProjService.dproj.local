@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.940,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.298,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.565,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.090,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\den2\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\den2\Desktop\Good Game Project\service\ProjService.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,C:\Users\denis\Desktop\Good Game Project\service\Unit1.pas=C:\Users\denis\Desktop\Good Game Project\service\UnitCashbox.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,=C:\Users\denis\Desktop\Good Game Project\service\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.214,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\den2\Desktop\Good Game Project\service\UnitService.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\AppletModule1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\den2\Desktop\Good Game Project\service\UnitService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,=C:\Users\den2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
